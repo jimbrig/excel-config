@@ -1,0 +1,3 @@
+[submodule "xl-macros"]
+	path = xl-macros
+	url = git@github.com:jimbrig/xl-macros.git
