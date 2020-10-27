@@ -6,7 +6,7 @@
 	- [ ] **Ensure to select 64-bit installer**
 	- [ ] Select option to download an Offline Installer for usage in the future if necessary.
 
-![[office365-install.png]]
+![](office365-install.png)
 
 - [ ] Once installer downloads, mount the ISO, extract the zipped archive and run the **64-bit** installer under a separate folder.
 - [ ] Install Office365 and restart machine.
@@ -55,7 +55,6 @@ Path: `C:\Users\jimbr\AppData\Roaming\Microsoft\AddIns`
 - [ ] [Analysis Toolpak](https://support.microsoft.com/en-us/office/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4?ui=en-us&rs=en-us&ad=us)
 - [ ] [PowerPivot](https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8?ui=en-us&rs=en-us&ad=us)
 - [ ] [Forecast Wizard](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2016/dn282376(v=sql.130)?redirectedfrom=MSDN)
-- [ ] 
 
 #### Oliver Wyman Add-Ins
 
