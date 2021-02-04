@@ -1,4 +1,4 @@
-# Excel
+# Excel <img src="images/icons8_microsoft_excel_2019_64.png">
 
 ## Installation
 
@@ -6,7 +6,7 @@
 	- [ ] **Ensure to select 64-bit installer**
 	- [ ] Select option to download an Offline Installer for usage in the future if necessary.
 
-![](office365-install.png)
+![](images/office365-install.png)
 
 - [ ] Once installer downloads, mount the ISO, extract the zipped archive and run the **64-bit** installer under a separate folder.
 - [ ] Install Office365 and restart machine.
@@ -28,12 +28,12 @@ cd excel-config
 > Note that this repo has a submodule for xl-macros repo.
 
 - [ ] Open Excel and turn on AutoSave
-- [ ] Copy and Paste [[PERSONAL.xlsb]] into <https://d.docs.live.net/c58858cfd97d35ae/Documents> where OneDrive stores office files.
-- [ ] Alternatively, create a dummy Macro via `Developer > Record Macro > Personal Workbook` and then unhide via `View > Unhide > PERSONAL.xlsb`.
+- [ ] Copy and Paste `PERSONAL.xlsb` into <https://d.docs.live.net/c58858cfd97d35ae/Documents> where OneDrive stores office files.
+  - [ ] Alternatively, create a dummy Macro via `Developer > Record Macro > Personal Workbook` and then unhide via `View > Unhide > PERSONAL.xlsb`.
 - [ ] Add macros to PERSONAL.xlsb via `Alt + F11` and import `Main.bas`
-- [ ] Save PERSONAL.xlsb and close excel.
+- [ ] Save `PERSONAL.xlsb` and close excel.
 
-Local Path for PERSONAL.xlsb: `C:\Users\jimbr\AppData\Roaming\Microsoft\Excel\XLSTART`
+Local Path for `PERSONAL.xlsb`: `%appdata%\Microsoft\Excel\XLSTART`
 
 or
 
@@ -114,9 +114,12 @@ In order,
 1. [ ] Excel Add-Ins
 1. [ ] Autosave Toggle
 
-**If make any changes ensure to backup in the .ExportUI file under Program-Settings/Excel**
+**If make any changes ensure to backup in the `.ExportU` file under Program-Settings/Excel and push to this Git repo!**
 
 ## Templates
 
 - <https://www.goskills.com/Excel/Resources/Free-Excel-templates>
-- 
+
+***
+
+Jimmy Briggs
