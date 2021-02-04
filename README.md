@@ -1,4 +1,8 @@
-# Excel <img src="images/icons8_microsoft_excel_2019_64.png">
+# Excel Configuration and Setup <img src="images/icons8_microsoft_excel_2019_64.png">
+
+> Personalized setup and configuration for Microsoft Excel.
+
+- See my [`xl-macros`](https://github.com/jimbrig/xl-macros/tree/259b05ae8b62313aecddfba546a4e75e2cee03d1) repository for details on the VBA code used in my personal macros.
 
 ## Installation
 
