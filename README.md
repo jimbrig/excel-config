@@ -60,7 +60,7 @@ Path: `C:\Users\jimbr\AppData\Roaming\Microsoft\AddIns`
 - [ ] [PowerPivot](https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8?ui=en-us&rs=en-us&ad=us)
 - [ ] [Forecast Wizard](https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2016/dn282376(v=sql.130)?redirectedfrom=MSDN)
 
-#### Oliver Wyman Add-Ins
+#### Actuarial Add-Ins
 
 - [ ] Function.xla
 - [ ] Toolbar Add In.xlam
